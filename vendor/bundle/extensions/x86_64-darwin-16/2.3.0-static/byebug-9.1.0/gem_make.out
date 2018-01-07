@@ -1,0 +1,19 @@
+current directory: /Users/zxbp2w/頑張るマン/petshaggy/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+/Users/zxbp2w/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180108-78112-1d0lp5m.rb extconf.rb
+creating Makefile
+
+current directory: /Users/zxbp2w/頑張るマン/petshaggy/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/zxbp2w/頑張るマン/petshaggy/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/zxbp2w/頑張るマン/petshaggy/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180108-78112-1qbgzxo/byebug
